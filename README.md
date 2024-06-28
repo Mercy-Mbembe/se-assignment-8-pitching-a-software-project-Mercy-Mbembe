@@ -37,6 +37,10 @@ Answer the following questions based on your understanding of how to pitch a sof
 10. Call to Action:
     - What is a call to action in the context of a software project pitch? Provide examples of effective calls to action that can be used to close your pitch.
 
+    below is the link to the answers
+
+    https://docs.google.com/document/d/1c-zUNiD1JlkadN2ijXBsz-14m7Elc2UEm2NEOqGcieM/edit?usp=sharing
+
  Submission Guidelines:
 - Your answers should be well-structured, concise, and to the point.
 - Provide real-world examples or case studies wherever possible.
